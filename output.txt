@@ -1,0 +1,155 @@
+*
+--- Simulation Parameters ---
+File Sink Received: /home/usrp/Documents/2944-UFSM-VLC/random_constellation/received
+File Sink Sent: /home/usrp/Documents/2944-UFSM-VLC/random_constellation/sent
+Samp Rate: 1000e3
+Sink Adress:  addr0=192.168.136.139 (Channel: 0)
+Source Adress:  addr0=192.168.136.139 (Channel: 1)
+--- End of Parameters ---
+
+ Signal analysis: Detected delay before correction: 369
+Delay after correction: 0
+EVM: 76.63%
+EVM (dB): -2.31 dB
+Noise power: 0.14677327871322632
+SNR: 2.3116177320480347 dB
+
+Shape of IQ_x_complex: (1400000,) 
+First 10 values of IQ_x_complex: [0. +0.5j 0. +0.j  0.5+0.5j 0. +0.5j 0.5+0.j  0. +0.5j 0. +0.5j 0. +0.j
+ 0.5+0.j  0.5+0.j ] 
+
+Shape of IQ_y_complex (normalized): (1400000,) 
+First 10 values of IQ_y_complex (normalized): [-0.35381976+0.36598888j -0.34110954-0.3753997j   0.37751275+0.3734427j
+ -0.33797684+0.35204217j  0.36012456-0.34741274j -0.35607854+0.35609892j
+ -0.3401613 +0.336599j   -0.36514637-0.37344405j  0.35196942-0.35668072j
+  0.34144357-0.33977708j] 
+
+END
+
+
+Shape of IQ_y_complex: (1400000,) 
+First 10 values of IQ_y_complex: [ 0.0596546 +0.01000226j -0.06579769-0.01006506j -0.06587353-0.01355703j
+  0.0146385 -0.06426981j  0.06477908+0.0138553j  -0.06581433-0.0147886j
+  0.06111146+0.01115592j  0.0106201 -0.06163659j -0.0083005 +0.06252746j
+ -0.00995586+0.06305954j] 
+
+END
+
+*
+--- Simulation Parameters ---
+File Sink Received: /home/usrp/Documents/2944-UFSM-VLC/random_constellation/received
+File Sink Sent: /home/usrp/Documents/2944-UFSM-VLC/random_constellation/sent
+Samp Rate: 1000e3
+Sink Adress:  addr0=192.168.136.139 (Channel: 0)
+Source Adress:  addr0=192.168.136.139 (Channel: 1)
+--- End of Parameters ---
+
+ Signal analysis: Detected delay before correction: 700
+Delay after correction: 0
+EVM: 4.14%
+EVM (dB): -27.65 dB
+Noise power: 0.0011420919327065349
+SNR: 27.65284538269043 dB
+
+Shape of IQ_x_complex: (1400000,) 
+First 10 values of IQ_x_complex: [-0.77420044-3.9074707e-01j  0.05322266+3.2012939e-01j
+  0.47625732-8.4893799e-01j -0.50076294+2.4810791e-02j
+ -0.13928223+2.4414062e-04j  0.51950073+5.0756836e-01j
+  0.44177246-4.6984863e-01j  0.8491211 -5.0985718e-01j
+  0.78408813+3.5299683e-01j -0.6048584 +4.6194458e-01j] 
+
+Shape of IQ_y_complex (normalized): (1400000,) 
+First 10 values of IQ_y_complex (normalized): [-0.7177227 -0.4277039j   0.0318813 +0.29995114j  0.49339777-0.8589956j
+ -0.46449766-0.0084664j  -0.14397544-0.02981097j  0.5100383 +0.5320094j
+  0.43513748-0.46501887j  0.87127095-0.5224307j   0.79252595+0.36690572j
+ -0.61304647+0.47548026j] 
+
+END
+
+
+Shape of IQ_y_complex: (1400000,) 
+First 10 values of IQ_y_complex: [-0.01755398+0.01067898j  0.01412533-0.00241184j -0.01359388-0.01691819j
+  0.02505063+0.01200383j  0.01427997+0.01612974j  0.02392383-0.00765948j
+ -0.01456151+0.04517247j  0.01838466-0.00989715j -0.01131727+0.00846991j
+ -0.00762792-0.00290346j] 
+
+END
+
+*
+--- Simulation Parameters ---
+File Sink Received: /home/usrp/Documents/2944-UFSM-VLC/square_constellation/received
+File Sink Sent: /home/usrp/Documents/2944-UFSM-VLC/square_constellation/sent
+Samp Rate: 1000e3
+Sink Adress:  addr0=192.168.136.139 (Channel: 0)
+Source Adress:  addr0=192.168.136.139 (Channel: 1)
+--- End of Parameters ---
+
+ Signal analysis: Detected delay before correction: 156
+Delay after correction: 0
+EVM: 3.80%
+EVM (dB): -28.40 dB
+Noise power: 0.0009685542318038642
+SNR: 28.404881954193115 dB
+
+Shape of IQ_x_complex: (1400000,) 
+First 10 values of IQ_x_complex: [ 0.10137939+0.1845398j   0.20812988-0.4178772j  -0.93118286+0.93304443j
+ -0.86151123-0.10192871j  0.27514648+0.6661072j   0.32165527+0.11398315j
+ -0.8293762 -0.39291382j -0.00964355+0.84750366j -0.96746826-0.28793335j
+ -0.45092773+0.49227905j] 
+
+Shape of IQ_y_complex (normalized): (1400000,) 
+First 10 values of IQ_y_complex (normalized): [ 0.05441254+0.19152778j  0.22009467-0.40569893j -0.8762754 +0.9575263j
+ -0.9013321 -0.10031796j  0.23556912+0.63452977j  0.33549106+0.14695473j
+ -0.82276875-0.42967296j -0.01696636+0.8621537j  -0.985704  -0.2648251j
+ -0.427368  +0.45951068j] 
+
+END
+
+
+Shape of IQ_y_complex: (1400000,) 
+First 10 values of IQ_y_complex: [ 0.01449256-0.01115259j  0.02282946-0.01725513j -0.01635453-0.00570502j
+  0.02511965+0.00492037j -0.04548325+0.00349485j -0.01557859+0.02586461j
+  0.00365111+0.04262554j  0.00967228+0.0438896j  -0.03387873-0.0105368j
+ -0.01684126-0.03539525j] 
+
+END
+
+*
+--- Simulation Parameters ---
+File Sink Received: /home/usrp/Documents/2944-UFSM-VLC/square_constellation/received
+File Sink Sent: /home/usrp/Documents/2944-UFSM-VLC/square_constellation/sent
+Samp Rate: 1000e3
+Sink Adress:  addr0=192.168.136.139 (Channel: 0)
+Source Adress:  addr0=192.168.136.139 (Channel: 1)
+--- End of Parameters ---
+
+ Signal analysis: Detected delay before correction: 237
+Delay after correction: 0
+EVM: 4.33%
+EVM (dB): -27.28 dB
+Noise power: 0.0012438335688784719
+SNR: 27.279376983642578 dB
+
+Shape of IQ_x_complex: (1400000,) 
+First 10 values of IQ_x_complex: [ 0.14889526-0.59716797j  0.88879395+0.5010071j  -0.5676575 -0.32913208j
+  0.17333984-0.9125061j  -0.8587036 +0.6888733j  -0.3085327 -0.05062866j
+  0.63464355+0.18392944j -0.8697815 -0.7632141j  -0.30325317-0.9749756j
+ -0.8633728 -0.48724365j] 
+
+Shape of IQ_y_complex (normalized): (1400000,) 
+First 10 values of IQ_y_complex (normalized): [ 0.15551718-0.59148866j  0.8863362 +0.51830375j -0.5993955 -0.37880763j
+  0.17774816-0.90781856j -0.8877494 +0.70714027j -0.3068322 -0.08537015j
+  0.6437507 +0.20756507j -0.9038919 -0.75551087j -0.3388392 -0.9721904j
+ -0.86656094-0.48538807j] 
+
+END
+
+
+Shape of IQ_y_complex: (1400000,) 
+First 10 values of IQ_y_complex: [-0.01004496-0.02845802j -0.00207648-0.00609078j  0.00666198-0.01567998j
+ -0.00872023-0.01537644j -0.02871475+0.01399545j -0.01249597-0.01009564j
+ -0.01132005-0.01672658j -0.01394675-0.00332608j -0.01381626+0.02141424j
+ -0.01993245+0.01360594j] 
+
+END
+
