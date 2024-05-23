@@ -1,4 +1,5 @@
-# dataset_VLC
+Code to generate a dataset of VLC transmission.
+
 The main file is square.grc
 
 Turn-on the VLC system in GEDRE.
